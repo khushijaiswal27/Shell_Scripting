@@ -1,6 +1,6 @@
-PING www.google.com (192.178.211.147) 56(84) bytes of data.
-64 bytes from lcbomp-in-f147.1e100.net (192.178.211.147): icmp_seq=1 ttl=107 time=2.43 ms
+PING www.google.com (172.217.174.68) 56(84) bytes of data.
+64 bytes from bom07s25-in-f4.1e100.net (172.217.174.68): icmp_seq=1 ttl=117 time=1.65 ms
 
 --- www.google.com ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 2.432/2.432/2.432/0.000 ms
+rtt min/avg/max/mdev = 1.652/1.652/1.652/0.000 ms
